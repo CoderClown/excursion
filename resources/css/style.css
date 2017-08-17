@@ -17,6 +17,17 @@ h4 {
 	text-align: center;
 }
 
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+h3 {
+	font-size: 21px;
+	color: gray;
+}
+
 a:link {
 	color: Aquamarine;
 }
